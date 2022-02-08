@@ -1,0 +1,1 @@
+Hello! My project is to make a basic recipe website utilizing HTML elements, I will need to create an index page and then relative links to recipes. I will demonstrate a basic understanding of HTML elements, creating relative links and formatting text within the body of the html page.
