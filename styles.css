@@ -1,0 +1,11 @@
+body {
+    background-color:lightslategray;
+}
+.homepage {
+    font-family: sans-serif;
+    color: khaki;
+}
+.title {
+    margin-left: 600px;
+    font-size: 100px;
+}
