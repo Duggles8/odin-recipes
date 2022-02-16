@@ -1,11 +1,27 @@
 body {
     background-color:lightslategray;
+    text-align: center;
+}
+.title.homepage {
+    margin-left: 80px;
+    font-size: 100px;
 }
 .homepage {
     font-family: sans-serif;
     color: khaki;
+    font-size: 50px;
 }
-.title {
-    margin-left: 600px;
-    font-size: 100px;
+.recipelink {
+    font-style: oblique;
+    
+
+}
+ul {
+    list-style: none;
+}
+li {
+    margin: 50px;
+}
+a {
+    text-decoration:none;
 }
