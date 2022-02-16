@@ -1,15 +1,16 @@
-body {
-    background-color:lightslategray;
-    text-align: center;
+a {
+    text-decoration:none;
 }
-.title.homepage {
+.title.default {
     margin-left: 80px;
     font-size: 100px;
 }
-.homepage {
+.default {
     font-family: sans-serif;
     color: khaki;
     font-size: 50px;
+    background-color:lightslategray;
+    text-align: center;
 }
 .recipelink {
     font-style: oblique;
@@ -20,7 +21,3 @@ body {
 }
 
 
-
-a {
-    text-decoration:none;
-}
