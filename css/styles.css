@@ -1,0 +1,39 @@
+
+}
+.title {
+    margin-left: 80px;
+    font-size: 100px;
+}
+
+.recipelink {
+    color: khaki;
+    font-style: oblique;
+    margin: 50px;
+    list-style: none;
+    
+
+}
+
+.para {
+    text-align: left;
+    font-size: 40px;
+}
+
+.instruct {
+    margin-left: 10px;
+}
+.food {
+    height: 245px;
+    width: 477px;
+}
+body {
+    font-family: sans-serif;
+    color: khaki;
+    font-size: 50px;
+    background-color:lightslategray;
+    text-align: center;
+}
+a {
+    text-decoration:none;
+    color: khaki;
+}
